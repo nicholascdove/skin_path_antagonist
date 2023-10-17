@@ -7,4 +7,4 @@ Finding skin pathogen antagonists in the AgBiome collection.
 - *Cutibacterium acnes* - Gram-positive, slow-growing, aerotolerant anaerobe. Linked to acne and causative agent of chronic blepharitis and endophthalmitis (eyelid and eye infections). 
 - *Staphylococcus aureus* - Gram-positive, aerobic. Commensal skin and upper respiratory microorganism - can be an opportunistic pathogen. Skin infections, respiratory infections, sinus infections.   
 
-**Conditions**: All isolates were already run through AntiSMASH (v. 5.0.1) and biosynthetic gene clusters (BGCs) were grouped into gene cluster familities (GCF) using BiG-SLiCE (v. 1.1.1).
+**Conditions**: All isolates were already run through [AntiSMASH](https://github.com/antismash/antismash) (v. 5.0.1) and biosynthetic gene clusters (BGCs) were grouped into gene cluster familities (GCF) using [BiG-SLiCE](https://github.com/medema-group/bigslice) (v. 1.1.1).
